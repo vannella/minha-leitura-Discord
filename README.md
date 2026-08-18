@@ -191,4 +191,10 @@ Porque, no fim, **um servidor e sua Staff também podem ser como uma família**.
 
 **Obrigado por ler até aqui.**
 
+<h5>Feito por Vana💜</h5>
+ <a href="https://github.com/Vannella">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" alt="GitHub">
+   </a>
+ 
 </div>
+
