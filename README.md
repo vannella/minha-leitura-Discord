@@ -136,7 +136,11 @@ Nem sempre devemos olhar para esses comportamentos e pensar:
 
 > "Essa pessoa é ruim como Staff."
 
+<div align="center">
+
 **Às vezes o problema está na estrutura.**
+
+</div>
 
 Uma equipe precisa deixar claro o que cada pessoa deve fazer, quais são seus limites e como as decisões são tomadas. Também precisa criar um ambiente onde seja possível pedir ajuda, dar opiniões e dividir responsabilidades.
 
@@ -144,25 +148,17 @@ Uma equipe precisa deixar claro o que cada pessoa deve fazer, quais são seus li
   
 ## 10. O que diferencia uma boa Staff?
 
-</div>
-
-Talvez uma boa Staff não seja aquela que possui mais poder, mais cargos ou que está sempre presente. É aquela que entende que **cargo não é superioridade, é responsabilidade**.
-
-Uma boa Staff sabe quando agir, quando ouvir, quando pedir ajuda e quando deixar outra pessoa assumir uma situação. Ela não precisa provar o tempo todo que é Staff. Seu trabalho aparece na forma como a comunidade funciona.
-
-<div align="center"> 
-  
-## 11. Acolhimento
-
 <div align="center">
   <img src="https://i.gifer.com/3yAp.gif" width="350">
 </div>
 
 </div>
 
-Entrar para uma Staff também significa abrir espaço para novas pessoas. Quem está chegando pode não saber tudo, pode cometer erros e precisar de tempo para entender como as coisas funcionam. Afinal, **todo mundo teve uma primeira vez**.
+Talvez uma boa Staff não seja aquela que possui mais poder, mais cargos ou que está sempre presente. É aquela que entende que **cargo não é superioridade, é responsabilidade**.
 
-É importante lembrar que você não é dono da estrutura e que estar na Staff há mais tempo não faz de você alguém melhor do que quem está começando. Se uma pessoa demonstra vontade, se esforça e quer aprender, ela merece espaço para crescer.
+Uma boa Staff sabe quando agir, quando ouvir, quando pedir ajuda e quando deixar outra pessoa assumir uma situação. Mas também sabe abrir espaço para quem está chegando. Afinal, **todo mundo teve uma primeira vez**.
+
+Quem está entrando pode não saber tudo, pode cometer erros e precisar de tempo para entender como as coisas funcionam. Estar na Staff há mais tempo não faz de você alguém melhor do que quem está começando. Se uma pessoa demonstra vontade, se esforça e quer aprender, ela merece espaço para crescer.
 
 Às vezes, quem já está na equipe pensa:
 
@@ -172,7 +168,7 @@ Mas talvez fosse melhor pensar:
 
 > *"Vem, eu te mostro como funciona."*
 
-Acolher alguém não significa entregar responsabilidades sem preparo. Significa ensinar, orientar, ouvir e permitir que a pessoa tenha sua própria experiência. Uma equipe forte não deveria fechar portas para quem quer aprender, mas ajudar a formar novas pessoas capazes de contribuir.
+Acolher não significa entregar responsabilidades sem preparo. Significa ensinar, orientar, ouvir e permitir que a pessoa tenha sua própria experiência. Uma equipe forte não deveria fechar portas para quem quer aprender, mas ajudar a formar novas pessoas capazes de contribuir.
 
 <div align="center">
 
