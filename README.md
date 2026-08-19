@@ -20,11 +20,11 @@
   <img src="https://i.gifer.com/A3yY.gif" width="350">
 </div>
 
-Quando uma pessoa ganha um cargo de Staff, alguma coisa muda. Ela passa a ter novas responsabilidades, permissões e também uma posição diferente dentro do servidor. É aí que começamos a perceber dois extremos bastante comuns: a pessoa que **se empolga demais com o poder** e começa a querer controlar tudo, e a pessoa que **percebe que ser Staff dá muito mais trabalho do que imaginava**.
+Quando uma pessoa ganha um cargo de Staff, alguma coisa muda. Ela passa a ter novas permissões, responsabilidades e uma posição diferente dentro do servidor. É aí que começamos a perceber dois extremos bastante comuns: a pessoa que **se empolga demais com o poder** e começa a querer controlar tudo, e a pessoa que **percebe que ser Staff dá muito mais trabalho do que imaginava**.
 
 ### 1.1 A pessoa que fica "mandona"
 
-Algumas pessoas começam a agir como se o cargo desse autoridade sobre os outros. Querem decidir tudo, corrigir todo mundo e mostrar que são Staff. Mas ser Staff não significa estar acima dos membros. O cargo existe porque existe uma responsabilidade maior com a comunidade.
+Algumas pessoas começam a agir como se o cargo desse autoridade sobre os outros. Querem decidir tudo, corrigir todo mundo e mostrar que são Staff. Mas o cargo não coloca ninguém acima dos membros. Ele apenas dá novas funções dentro da comunidade.
 
 ### 1.2 A pessoa que entra na Staff e depois "some"
 
@@ -64,9 +64,9 @@ ou:
 
 </div>
 
-Às vezes o problema começa antes mesmo da pessoa agir. Ela recebe o cargo, mas ninguém explicou exatamente o que isso significa. Você pode punir? Resolver conflitos entre Staff? Organizar eventos? Até onde vai sua responsabilidade?
+Às vezes o problema começa antes mesmo da pessoa agir. Ela recebe o cargo, mas ninguém explicou exatamente o que isso significa. Você pode punir? Resolver conflitos entre Staff? Organizar eventos? Até onde vai sua função?
 
-Esse "vai aprendendo" pode fazer uma pessoa evitar responsabilidades enquanto outra assume mais do que deveria. Por isso, deixar as funções claras é importante para que cada um saiba onde pode contribuir.
+Esse "vai aprendendo" pode fazer uma pessoa evitar tarefas enquanto outra assume mais do que deveria. Quando os limites não estão claros, a equipe acaba funcionando no improviso.
 
 <div align="center">
   
@@ -82,7 +82,7 @@ Mas a novidade passa.
 
 </div> 
 
-Se a pessoa não sente que está contribuindo, que tem espaço para agir ou que faz parte da equipe, a motivação diminui. O que começou como vontade de ajudar pode acabar parecendo apenas uma obrigação.
+Se a pessoa não sente que está contribuindo ou que tem espaço para agir, a motivação diminui. O que começou como vontade de ajudar pode acabar parecendo apenas uma obrigação.
 
 <div align="center">
   
@@ -122,17 +122,9 @@ Outro problema é quando o trabalho da Staff se torna invisível. Quando tudo fu
 
 </div>
 
-À primeira vista, esses comportamentos parecem completamente diferentes. Mas podem ter uma origem parecida: **a relação entre a pessoa, o cargo e a responsabilidade não está bem definida**.
+À primeira vista, esses comportamentos parecem completamente diferentes. Uma tenta controlar tudo, enquanto a outra se afasta. Mas talvez os dois extremos tenham algo em comum: **a relação entre a pessoa, o cargo e a forma como a equipe funciona**.
 
-Uma ocupa espaço demais. A outra deixa de ocupar espaço. E os dois extremos podem prejudicar a equipe.
-
-<div align="center">
-
-## 9. O problema não é necessariamente a pessoa
-
-</div>
-
-Nem sempre devemos olhar para esses comportamentos e pensar:
+Por isso, nem sempre a resposta é simplesmente:
 
 > "Essa pessoa é ruim como Staff."
 
@@ -142,11 +134,13 @@ Nem sempre devemos olhar para esses comportamentos e pensar:
 
 </div>
 
-Uma equipe precisa deixar claro o que cada pessoa deve fazer, quais são seus limites e como as decisões são tomadas. Também precisa criar um ambiente onde seja possível pedir ajuda, dar opiniões e dividir responsabilidades.
+Quando as funções não estão claras, as decisões ficam concentradas, as pessoas não conseguem pedir ajuda ou sentem que não têm espaço para participar, esses comportamentos podem aparecer.
+
+Uma boa estrutura ajuda a definir funções, limites e formas de tomar decisões. Mas isso sozinho não basta.
 
 <div align="center">
   
-## 10. O que diferencia uma boa Staff?
+## 9. O que diferencia uma boa Staff?
 
 <div align="center">
   <img src="https://i.gifer.com/3yAp.gif" width="350">
@@ -154,11 +148,11 @@ Uma equipe precisa deixar claro o que cada pessoa deve fazer, quais são seus li
 
 </div>
 
-Talvez uma boa Staff não seja aquela que possui mais poder, mais cargos ou que está sempre presente. É aquela que entende que **cargo não é superioridade, é responsabilidade**.
+Talvez uma boa Staff não seja aquela que possui mais poder, mais cargos ou que está sempre presente. É aquela que sabe **quando agir, quando ouvir e quando deixar outra pessoa assumir**.
 
-Uma boa Staff sabe quando agir, quando ouvir, quando pedir ajuda e quando deixar outra pessoa assumir uma situação. Mas também sabe abrir espaço para quem está chegando. Afinal, **todo mundo teve uma primeira vez**.
+Também sabe abrir espaço para quem está chegando. Afinal, **todo mundo teve uma primeira vez**.
 
-Quem está entrando pode não saber tudo, pode cometer erros e precisar de tempo para entender como as coisas funcionam. Estar na Staff há mais tempo não faz de você alguém melhor do que quem está começando. Se uma pessoa demonstra vontade, se esforça e quer aprender, ela merece espaço para crescer.
+Quem está começando pode não saber tudo, cometer erros e precisar de tempo para entender como as coisas funcionam. Estar na Staff há mais tempo não faz de você alguém melhor. Se uma pessoa demonstra vontade, se esforça e quer aprender, ela merece uma oportunidade.
 
 Às vezes, quem já está na equipe pensa:
 
@@ -168,11 +162,11 @@ Mas talvez fosse melhor pensar:
 
 > *"Vem, eu te mostro como funciona."*
 
-Acolher não significa entregar responsabilidades sem preparo. Significa ensinar, orientar, ouvir e permitir que a pessoa tenha sua própria experiência. Uma equipe forte não deveria fechar portas para quem quer aprender, mas ajudar a formar novas pessoas capazes de contribuir.
+Acolher não significa entregar responsabilidades sem preparo. Significa ensinar, orientar e permitir que a pessoa tenha sua própria experiência. Uma equipe forte não fecha portas para quem quer aprender; ela cria espaço para novas pessoas contribuírem.
 
 <div align="center">
 
-## 12. Talvez sejamos um pouco como as Tartarugas Ninja
+## 10. Talvez sejamos um pouco como as Tartarugas Ninja
 
 <div align="center">
   <img src="https://i.gifer.com/Y8oE.gif" width="250">
@@ -180,7 +174,7 @@ Acolher não significa entregar responsabilidades sem preparo. Significa ensinar
 
 </div>
 
-Voltando às Tartarugas Ninja, cada uma possui algo diferente. **Leonardo** representa responsabilidade e liderança. **Michelangelo** lembra que também precisamos de descontração e leveza. **Donatello** mostra a importância da criatividade e de encontrar soluções. **Raphael** representa personalidade, coragem e a capacidade de se posicionar.
+Voltando às Tartarugas Ninja, cada uma possui algo diferente. **Leonardo** representa liderança. **Michelangelo** lembra que também precisamos de descontração. **Donatello** mostra a importância de encontrar soluções. **Raphael** representa personalidade e coragem para se posicionar.
 
 Nenhum deles é igual ao outro, e talvez seja justamente isso que faça uma equipe funcionar. **Liderança também é algo que aprendemos com os outros.** Você não precisa ser o melhor em tudo. Pode aprender com quem pensa diferente e encontrar em cada pessoa algo que complemente a equipe.
 
@@ -194,9 +188,9 @@ Nenhum deles é igual ao outro, e talvez seja justamente isso que faça uma equi
 
 Já fui Staff e passei por algumas dessas fases. Já tive responsabilidades, já me questionei sobre meu papel e já observei comportamentos que só fui entender melhor depois de sair daquela posição. Hoje, olhando para trás, continuo refletindo sobre isso.
 
-Talvez entender uma equipe de Staff não seja apenas entender como administrar um servidor. É também entender **como as pessoas lidam com poder, responsabilidade, reconhecimento e pertencimento**.
+Talvez entender uma equipe de Staff não seja apenas entender como administrar um servidor. É também entender **como as pessoas lidam com poder, reconhecimento, pertencimento e com as outras pessoas ao seu redor**.
 
-E talvez seja isso que as Tartarugas Ninja nos ensinam: não precisamos ser iguais, nem saber fazer tudo. Precisamos aprender uns com os outros.
+E talvez seja isso que as Tartarugas Ninja nos ensinam: não precisamos ser iguais, nem saber fazer tudo. **Precisamos aprender uns com os outros.**
 
 Porque, no fim, **um servidor e sua Staff também podem ser como uma família**. Nem sempre vamos concordar ou acertar, e às vezes vamos discutir. Mas continuamos juntos, aprendendo uns com os outros e tentando fazer daquele lugar que construímos algo especial.
 
