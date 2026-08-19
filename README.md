@@ -11,7 +11,7 @@
 
 ## ✨ Episódio 1 
 
-# Staff: Quando o cargo muda a pessoa
+# @Staff: Quando o cargo muda a pessoa
 
 *"Parabéns, você entrou para a Staff!"*
 
