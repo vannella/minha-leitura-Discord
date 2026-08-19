@@ -157,11 +157,11 @@ Quem está começando pode não saber tudo, cometer erros e precisar de tempo pa
 
 Às vezes, quem já está na equipe pensa:
 
-> *"Eu já sei como funciona, então deixa que eu faço."*
+> "Eu já sei como funciona, então deixa que eu faço."
 
 Mas talvez fosse melhor pensar:
 
-> *"Vem, eu te mostro como funciona."*
+> "Vem, eu te mostro como funciona."
 
 Acolher não significa entregar responsabilidades sem preparo. Significa ensinar, orientar e permitir que a pessoa tenha sua própria experiência. Uma equipe forte não fecha portas para quem quer aprender; ela cria espaço para novas pessoas contribuírem.
 
